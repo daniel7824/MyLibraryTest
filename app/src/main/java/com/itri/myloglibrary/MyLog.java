@@ -2,7 +2,7 @@ package com.itri.myloglibrary;
 
 public class MyLog {
 
-    public static boolean isShowLOG = true;
+    public static boolean isShowLOG = false;
 
     public static void i(String tag, String string)
     {
